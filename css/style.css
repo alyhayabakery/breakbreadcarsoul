@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Page</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#menu">Menu</a></li>
+                <li><a href="#order">Order</a></li>
+                <li><a href="#contact">Contact</a></li>
+                <li><a href="#location">Location</a></li>
+                <li><a href="https://wa.me/yourwhatsappnumber" target="_blank">WhatsApp</a></li>
+                <li><a href="#social-media">Social Media</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="menu">
+            <h2>Menu</h2>
+            <!-- Menu content -->
+        </section>
+        <section id="order">
+            <h2>Order</h2>
+            <!-- Order content -->
+        </section>
+        <section id="contact">
+            <h2>Contact</h2>
+            <!-- Contact content -->
+        </section>
+        <section id="location">
+            <h2>Location</h2>
+            <!-- Location content -->
+        </section>
+        <section id="social-media">
+            <h2>Social Media</h2>
+            <!-- Social media links -->
+        </section>
+    </main>
+    <footer>
+        <p>© 2024 Your Company Name</p>
+    </footer>
+</body>
+</html>
